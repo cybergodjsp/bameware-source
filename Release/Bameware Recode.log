@@ -1,0 +1,191 @@
+﻿  Aimbot.cpp
+  Antiaim.cpp
+  Autostrafer.cpp
+  Autowall.cpp
+  Backtracking.cpp
+  BoxESP.cpp
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\Antiaim.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\Antiaim.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\Antiaim.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\Antiaim.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\Autostrafer.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\Autostrafer.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\Autostrafer.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\Autostrafer.cpp)
+  Chams.cpp
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\BoxESP.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\BoxESP.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\BoxESP.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\BoxESP.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\boxesp.cpp(180): warning C4018: '<': signed/unsigned mismatch
+  CircleStrafer.cpp
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\Aimbot.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\Aimbot.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\Aimbot.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\Aimbot.cpp)
+  EnginePrediction.cpp
+  EventListeners.cpp
+  Fakewalk.cpp
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\Chams.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\Chams.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\Chams.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\Chams.cpp)
+  Glow.cpp
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\CircleStrafer.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\CircleStrafer.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\CircleStrafer.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\CircleStrafer.cpp)
+  InGameLogger.cpp
+  Legitbot.cpp
+  Misc.cpp
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\EventListeners.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\EventListeners.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\EventListeners.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\EventListeners.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\Fakewalk.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\Fakewalk.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\Fakewalk.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\Fakewalk.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\ingamelogger.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\austin\documents\bameware\bameware recode\features\ingamelogger.cpp(24): warning C4018: '>': signed/unsigned mismatch
+c:\users\austin\documents\bameware\bameware recode\features\ingamelogger.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  Resolver.cpp
+  Configurations.cpp
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\Misc.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\Misc.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\Misc.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\Misc.cpp)
+  SkeletonESP.cpp
+  SkinChanger.cpp
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\Glow.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\Glow.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\Glow.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\Glow.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\misc.cpp(479): warning C4018: '<': signed/unsigned mismatch
+c:\users\austin\documents\bameware\bameware recode\features\misc.cpp(495): warning C4018: '<': signed/unsigned mismatch
+c:\users\austin\documents\bameware\bameware recode\features\misc.cpp(520): warning C4018: '<': signed/unsigned mismatch
+c:\users\austin\documents\bameware\bameware recode\features\misc.cpp(567): warning C4307: '*': integral constant overflow
+c:\users\austin\documents\bameware\bameware recode\features\misc.cpp(575): warning C4307: '*': integral constant overflow
+c:\users\austin\documents\bameware\bameware recode\features\misc.cpp(584): warning C4307: '*': integral constant overflow
+  VisualizeBacktrack.cpp
+c:\users\austin\documents\bameware\bameware recode\features\misc.cpp(407): warning C4172: returning address of local variable or temporary: final_text
+  Visuals.cpp
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\SkinChanger.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\SkinChanger.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\SkinChanger.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\SkinChanger.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\SkeletonESP.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\SkeletonESP.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\SkeletonESP.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\SkeletonESP.cpp)
+  VisualsMisc.cpp
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\Configurations.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\Configurations.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\Configurations.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\Configurations.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\Resolver.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\Resolver.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\Resolver.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\Resolver.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\resolver.cpp(72): warning C4018: '<=': signed/unsigned mismatch
+c:\users\austin\documents\bameware\bameware recode\features\resolver.cpp(139): warning C4307: '*': integral constant overflow
+c:\users\austin\documents\bameware\bameware recode\features\resolver.cpp(155): warning C4307: '*': integral constant overflow
+c:\users\austin\documents\bameware\bameware recode\features\resolver.cpp(156): warning C4307: '*': integral constant overflow
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\VisualizeBacktrack.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\VisualizeBacktrack.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\VisualizeBacktrack.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\VisualizeBacktrack.cpp)
+  World Textures.cpp
+  main.cpp
+  Menu.cpp
+  PPGUI.cpp
+  PPGUI_Commands.cpp
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\VisualsMisc.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\VisualsMisc.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\VisualsMisc.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\VisualsMisc.cpp)
+  PPGUI_Helpers.cpp
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file FEATURES\World Textures.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file FEATURES\World Textures.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file FEATURES\World Textures.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file FEATURES\World Textures.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file PPGUI Framework\Menu.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file PPGUI Framework\Menu.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file PPGUI Framework\Menu.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file PPGUI Framework\Menu.cpp)
+  PPGUI_Defines.cpp
+  sdk.cpp
+  Debugger.cpp
+  hooks.cpp
+  input_handler.cpp
+  interfaces.cpp
+  logging.cpp
+  math.cpp
+  NetvarManager.cpp
+c:\users\austin\documents\bameware\bameware recode\sdk\renderview.h(22): warning C4838: conversion from 'unsigned char' to 'float' requires a narrowing conversion (compiling source file UTILS\hooks.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u9F8D' cannot be represented in the current code page (1252) (compiling source file UTILS\hooks.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(394): warning C4566: character represented by universal-character-name '\u738B' cannot be represented in the current code page (1252) (compiling source file UTILS\hooks.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(460): warning C4566: character represented by universal-character-name '\u58F1' cannot be represented in the current code page (1252) (compiling source file UTILS\hooks.cpp)
+c:\users\austin\documents\bameware\bameware recode\features\skinchanger.h(461): warning C4566: character represented by universal-character-name '\u5F10' cannot be represented in the current code page (1252) (compiling source file UTILS\hooks.cpp)
+  offsets.cpp
+c:\users\austin\documents\bameware\bameware recode\utils\hooks.cpp(227): warning C4715: 'HOOKS::HookedSendDatagram': not all control paths return a value
+  render.cpp
+  utils.cpp
+  variables.cpp
+  vmt.cpp
+c:\users\austin\documents\bameware\bameware recode\utils\utils.cpp(73): warning C4129: ' ': unrecognized character escape sequence
+c:\users\austin\documents\bameware\bameware recode\utils\utils.cpp(123): warning C4172: returning address of local variable or temporary: player_info
+     Creating library C:\Users\Austin\Documents\bameware\Release\Bameware Recode.lib and object C:\Users\Austin\Documents\bameware\Release\Bameware Recode.exp
+bameware_securelib.lib(AntiAnalysis.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'bameware_securelib.lib(AntiAnalysis.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\vc140.pdb'; linking object as if no debug info
+bameware_securelib.lib(AntiCrack.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'bameware_securelib.lib(AntiCrack.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\vc140.pdb'; linking object as if no debug info
+bameware_securelib.lib(AntiDebugger.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'bameware_securelib.lib(AntiDebugger.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\vc140.pdb'; linking object as if no debug info
+bameware_securelib.lib(AntiVM.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'bameware_securelib.lib(AntiVM.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\vc140.pdb'; linking object as if no debug info
+bameware_securelib.lib(CodeStub.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'bameware_securelib.lib(CodeStub.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\vc140.pdb'; linking object as if no debug info
+bameware_securelib.lib(Crypto.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'bameware_securelib.lib(Crypto.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\vc140.pdb'; linking object as if no debug info
+bameware_securelib.lib(ForumInterface.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'bameware_securelib.lib(ForumInterface.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\vc140.pdb'; linking object as if no debug info
+bameware_securelib.lib(Network.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'bameware_securelib.lib(Network.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\vc140.pdb'; linking object as if no debug info
+bameware_securelib.lib(ResourceRetriever.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'bameware_securelib.lib(ResourceRetriever.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\vc140.pdb'; linking object as if no debug info
+bameware_securelib.lib(ModuleSec.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'bameware_securelib.lib(ModuleSec.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\vc140.pdb'; linking object as if no debug info
+bameware_securelib.lib(Utils.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'bameware_securelib.lib(Utils.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\vc140.pdb'; linking object as if no debug info
+cryptlib.lib(cryptlib.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(cryptlib.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(cpu.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(cpu.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(integer.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(integer.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(algparam.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(algparam.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(asn.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(asn.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(base64.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(base64.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(basecode.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(basecode.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(channels.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(channels.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(crc.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(crc.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(dll.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(dll.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(ec2n.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(ec2n.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(ecp.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(ecp.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(emsa2.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(emsa2.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(files.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(files.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(filters.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(filters.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(fips140.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(fips140.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(gcm.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(gcm.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(gf2n.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(gf2n.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(gfpcrypt.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(gfpcrypt.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(hex.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(hex.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(hrtimer.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(hrtimer.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(iterhash.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(iterhash.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(md5.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(md5.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(misc.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(misc.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(modes.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(modes.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(mqueue.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(mqueue.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(nbtheory.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(nbtheory.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(oaep.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(oaep.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(osrng.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(osrng.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(pch.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(pch.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(pkcspad.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(pkcspad.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(pssr.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(pssr.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(pubkey.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(pubkey.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(queue.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(queue.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(randpool.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(randpool.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(rdtables.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(rdtables.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(rijndael.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(rijndael.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(rng.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(rng.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(rsa.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(rsa.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(rw.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(rw.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+cryptlib.lib(sha.obj) : warning LNK4099: PDB 'cryptlib.pdb' was not found with 'cryptlib.lib(sha.obj)' or at 'C:\Users\Austin\Documents\bameware\Release\cryptlib.pdb'; linking object as if no debug info
+  Bameware Recode.vcxproj -> C:\Users\Austin\Documents\bameware\Release\Bameware Recode.dll
